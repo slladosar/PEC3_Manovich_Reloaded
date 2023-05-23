@@ -32,11 +32,11 @@ Tot i que Procreate ja ofereix eines de retoc de color i efectes, que normalment
 
 Una nova característica sorprenent de Procreate és la pintura en tres dimensions, una funcionalitat que abans només s'associava amb programes específics de modelatge i animació 3D.
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fbb98a170803683.646443539d4bc.jpg" alt="Lletra A il·lustrada amb Procreate" width="400" height="350" style="float:right;margin-left:30px">
-
 [![New 3D Painting in Procreate](https://img.youtube.com/vi/Aq18QxEiN-g/0.jpg)](https://www.youtube.com/watch?v=Aq18QxEiN-g)
 
 Finalment, tal com assenyala Lev Manovich en el seu llibre, la tipografia tampoc es manté intacta a Procreate. El programa permet utilitzar la tipografia com un nou llenguatge, donant llibertat als usuaris per animar les lletres o crear cal·ligrafia amb materials surrealistes, combinant les tècniques de diversos llenguatges visuals per obtenir un metallenguatge creatiu.
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fbb98a170803683.646443539d4bc.jpg" alt="Lletra A il·lustrada amb Procreate" width="400" height="350" style="float:right;margin-left:30px">
 
 En resum, Procreate és un híbrid que combina elements d'il·lustració digital amb funcionalitats pròpies de programes de retoc de color, disseny vectorial, 3D i manipulació de tipografia, permetent als artistes explorar noves formes d'expressió i expandir els límits de la creació digital.
 
