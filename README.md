@@ -5,8 +5,7 @@ Maig 2023
 
 # **Visionant el futur amb les ulleres de Lev Manovich**
 ## **Plantejament**
-En aquesta tercera PAC ens posem novament les ulleres de Lev Manovich per parlar de dos casos nous d'hibridació de programari en la cultura contemporània, **Procreate** i **Blender**. És molt fàcil confondre hibridació amb la descripció de multimèdia. Però Manovich ho explica molt bé al seu llibre "El software toma el mando". Quan parlem d'híbrids de mitjans, les diverses tècniques i interfícies es fusionen per oferir una experiència nova i coherent, molt diferent de l'experiència que obtenim quan consumim els medis un a un, com per exemple en un blog, on tenim fotos i text per separat. En aquest cas, cada medi té el seu propi llenguatge i no interaccionen, simplement serveixen per il·lustrar el que es llegeix.
-En canvi, en un híbrid veurem com diferents tècniques, tradicionals o no, interaccionen amb diferents llenguatges aconseguint noves possibilitats expressives.
+En aquesta tercera PAC ens posem novament les ulleres de Lev Manovich per parlar de dos casos nous d'hibridació de programari en la cultura contemporània, **Procreate** i **Blender**. És molt fàcil confondre hibridació amb la descripció de multimèdia. Però Manovich ho explica molt bé al seu llibre "El software toma el mando". Quan parlem d'híbrids de mitjans, les diverses tècniques i interfícies es fusionen per oferir una experiència nova i coherent, molt diferent de l'experiència que obtenim quan consumim els mitjans un a un, com per exemple en un blog, on tenim fotos i text per separat. En aquest cas, cada mitjà té el seu propi llenguatge i no interaccionen, simplement serveixen per il·lustrar el que es llegeix.En canvi, en un híbrid veurem com diferents tècniques, tradicionals o no, interaccionen amb diferents llenguatges aconseguint noves possibilitats expressives.
 
 _"La palabra multimédia supo reflejar el fenómeno de la confluéncia de contenidos procedentes de distintos medios, pero no así de sus lenguajes” (Lev Manovich, 2010)_
 
@@ -18,25 +17,25 @@ Procreate és una aplicació de creació artística dissenyada per a dispositius
 
 Un dels altres aspectes que la fan intuïtiva és la similitud amb dibuixar sobre paper. Utilitzem físicament un llapis, sensible a la pressió, sobre una pantalla a partir de diferents eines que imiten mitjans tradicionals.
 
-A Procreate, igual que amb Photoshop o Illustrator, es treballa amb capes, això permet selecionar i modificar els elements sense tocar els altres. A més, es poden crear llenços d'altíssima resolució (fins a 16.000 x 8.000 píxels) amb l'avantatge de poder ampliar molt la imatge sense perdre qualitat i dibuixar detalls que sobre paper no es podrien fer.
+A Procreate, igual que amb Photoshop o Illustrator, es treballa amb capes, això permet selecionar i modificar els elements sense tocar els altres. A més, es poden crear llenços d'altíssima resolució _(fins a 16.000 x 8.000 píxels)_ amb l'avantatge de poder ampliar molt la imatge sense perdre qualitat i dibuixar detalls que sobre paper no es podrien fer.
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c386c3162317577.63f49abc8fd88.gif" alt="Illustracio animada d'Andreu Zaragoza" width="400" style="float:right;margin-left:30px">
 
-Procreate és molt més que una simple aplicació de dibuix, en realitat, es converteix en un híbrid mitjançant la fusió amb altres mitjans. A continuació, es detallen algunes de les característiques que fan de Procreate un híbrid, segons Lev Manovich.
+Procreate és molt més que una simple aplicació de dibuix, en realitat, **es converteix en un híbrid mitjançant la fusió amb altres mitjans**. A continuació, es detallen algunes de les característiques que fan de Procreate un híbrid, segons Lev Manovich.
 
-En primer lloc, Procreate ofereix una àmplia gamma de pinzells que poden simular materials com el metall o la pell, així com pinzells de luminància que permeten crear efectes lumínics sofisticats. A més, els usuaris poden crear i compartir els seus propis pinzells amb altres persones, afegint una dimensió col·laborativa a l'experiència de dibuix.
+◾En primer lloc, Procreate ofereix una àmplia gamma de pinzells que poden simular materials com el metall o la pell, així com pinzells de luminància que permeten crear efectes lumínics sofisticats. A més, els usuaris poden crear i compartir els seus propis pinzells amb altres persones, afegint una dimensió col·laborativa a l'experiència de dibuix.
 
-Una altra característica destacada és la capacitat d'enregistrar el procés de creació, permetent als artistes capturar i compartir el seu flux de treball, així com aprendre de les seves pròpies creacions. L'asssitent d'animació també el fa molt interessant ja que fàcilment podrem fer animacions frame a frame i crear Gifs tan interessants com aquest:
+◾Una altra característica destacada és la capacitat d'enregistrar el procés de creació, permetent als artistes capturar i compartir el seu flux de treball, així com aprendre de les seves pròpies creacions. L'asssitent d'animació també el fa molt interessant ja que fàcilment podrem fer animacions frame a frame i crear Gifs tan interessants com aquest:
 
-La capacitat de seleccionar, transformar elements, crear màscares i superposar elements amb modes de fusió és una altra característica clau de Procreate, donant als artistes un control sobre les seves creacions i possibilitant la combinació de diferents elements per aconseguir efectes visuals complexos.
+◾La capacitat de seleccionar, transformar elements, crear màscares i superposar elements amb modes de fusió és una altra característica clau de Procreate, donant als artistes un control sobre les seves creacions i possibilitant la combinació de diferents elements per aconseguir efectes visuals complexos.
 
-Tot i que Procreate ja ofereix eines de retoc de color i efectes, que normalment s'associen amb programaris dedicat a aquest propòsit, com ara ajustar la saturació, el contrast, la lluminositat i efectes com desenfocament, soroll, clonació, aberració cromàtica, etc. També ofereix la possibilitat d'exportar les il·lustracions a formats que són compatibles amb programes com Photoshop, per continuar treballant-les allà.
+◾Tot i que Procreate ja ofereix eines de retoc de color i efectes, que normalment s'associen amb programaris dedicat a aquest propòsit, com ara ajustar la saturació, el contrast, la lluminositat i efectes com desenfocament, soroll, clonació, aberració cromàtica, etc. També ofereix la possibilitat d'exportar les il·lustracions a formats que són compatibles amb programes com Photoshop, per continuar treballant-les allà.
 
-Una nova característica sorprenent de Procreate és la pintura en tres dimensions, una funcionalitat que abans només s'associava amb programes específics de modelatge i animació 3D.
+◾Una nova característica sorprenent de Procreate és la pintura en tres dimensions, una funcionalitat que abans només s'associava amb programes específics de modelatge i animació 3D.
 
 [![New 3D Painting in Procreate](https://img.youtube.com/vi/Aq18QxEiN-g/0.jpg)](https://www.youtube.com/watch?v=Aq18QxEiN-g)
 
-Finalment, tal com assenyala Lev Manovich en el seu llibre, la tipografia tampoc es manté intacta a Procreate. El programa permet utilitzar la tipografia com un nou llenguatge, donant llibertat als usuaris per animar les lletres o crear cal·ligrafia amb materials surrealistes, combinant les tècniques de diversos llenguatges visuals per obtenir un metallenguatge creatiu.
+◾Finalment, tal com assenyala Lev Manovich en el seu llibre, la tipografia tampoc es manté intacta a Procreate. El programa permet utilitzar la tipografia com un nou llenguatge, donant llibertat als usuaris per animar les lletres o crear cal·ligrafia amb materials surrealistes, combinant les tècniques de diversos llenguatges visuals per obtenir un metallenguatge creatiu.
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fbb98a170803683.646443539d4bc.jpg" alt="Lletra A il·lustrada amb Procreate" width="400" height="350" style="float:right;margin-left:30px">
 
