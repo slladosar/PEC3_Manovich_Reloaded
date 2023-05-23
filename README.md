@@ -1,4 +1,7 @@
 ### REPTE-ACTIVITAT 3:
+Sílvia Lladosa Ruana
+Maig 2023
+
 # **Visionant el futur amb les ulleres de Lev Manovich**
 ## **Plantejament**
 En aquesta tercera PAC ens posem novament les ulleres de Lev Manovich per parlar de dos casos nous d'hibridació de programari en la cultura contemporània, **Procreate** i **Blender**. És molt fàcil confondre hibridació amb la descripció de multimèdia. Però Manovich ho explica molt bé al seu llibre "El software toma el mando". Quan parlem d'híbrids de mitjans, les diverses tècniques i interfícies es fusionen per oferir una experiència nova i coherent, molt diferent de l'experiència que obtenim quan consumim els medis un a un, com per exemple en un blog, on tenim fotos i text per separat. En aquest cas, cada medi té el seu propi llenguatge i no interaccionen, simplement serveixen per il·lustrar el que es llegeix.
@@ -86,4 +89,6 @@ GALÁN, Mercè. (2007) Blender. Curso de Iniciación. INFORBOOK
 MANOVICH, Lev (2013) El software toma el mando. Barcelona. Editorial UOC
 
 MUÑOZ-JUSTÍCIA, Juan (2014) Conocimiento Abierto y Tecnología. [En línia] Disponible A: http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+
+
 
