@@ -1,5 +1,6 @@
 ### REPTE-ACTIVITAT 3:
 Sílvia Lladosa Ruana
+
 Maig 2023
 
 # **Visionant el futur amb les ulleres de Lev Manovich**
