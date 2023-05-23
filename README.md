@@ -4,7 +4,7 @@
 En aquesta tercera PAC ens posem novament les ulleres de Lev Manovich per parlar de dos casos nous d'hibridació de programari en la cultura contemporània, **Procreate** i **Blender**. És molt fàcil confondre hibridació amb la descripció de multimèdia. Però Manovich ho explica molt bé al seu llibre "El software toma el mando". Quan parlem d'híbrids de mitjans, les diverses tècniques i interfícies es fusionen per oferir una experiència nova i coherent, molt diferent de l'experiència que obtenim quan consumim els medis un a un, com per exemple en un blog, on tenim fotos i text per separat. En aquest cas, cada medi té el seu propi llenguatge i no interaccionen, simplement serveixen per il·lustrar el que es llegeix.
 En canvi, en un híbrid veurem com diferents tècniques, tradicionals o no, interaccionen amb diferents llenguatges aconseguint noves possibilitats expressives.
 
-_"La palabra multimèdia supo reflejar el fenómeno de la confluència de contenidos procedentes de distintos medios, però no así de sus lenguajes” (Lev Manovich, 2010)_
+_"La palabra multimédia supo reflejar el fenómeno de la confluéncia de contenidos procedentes de distintos medios, pero no así de sus lenguajes” (Lev Manovich, 2010)_
 
 ## **Redescobrint la hibridació**
 
