@@ -18,13 +18,13 @@ Un dels altres aspectes que la fan intuïtiva és la similitud amb dibuixar sobr
 
 A Procreate, igual que amb Photoshop o Illustrator, es treballa amb capes, això permet selecionar i modificar els elements sense tocar els altres. A més, es poden crear llenços d'altíssima resolució (fins a 16.000 x 8.000 píxels) amb l'avantatge de poder ampliar molt la imatge sense perdre qualitat i dibuixar detalls que sobre paper no es podrien fer.
 
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c386c3162317577.63f49abc8fd88.gif" alt="Illustracio animada d'Andreu Zaragoza" width="400" style="float:right;margin-left:30px">
+
 Procreate és molt més que una simple aplicació de dibuix, en realitat, es converteix en un híbrid mitjançant la fusió amb altres mitjans. A continuació, es detallen algunes de les característiques que fan de Procreate un híbrid, segons Lev Manovich.
 
 En primer lloc, Procreate ofereix una àmplia gamma de pinzells que poden simular materials com el metall o la pell, així com pinzells de luminància que permeten crear efectes lumínics sofisticats. A més, els usuaris poden crear i compartir els seus propis pinzells amb altres persones, afegint una dimensió col·laborativa a l'experiència de dibuix.
 
 Una altra característica destacada és la capacitat d'enregistrar el procés de creació, permetent als artistes capturar i compartir el seu flux de treball, així com aprendre de les seves pròpies creacions. L'asssitent d'animació també el fa molt interessant ja que fàcilment podrem fer animacions frame a frame i crear Gifs tan interessants com aquest:
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c386c3162317577.63f49abc8fd88.gif" alt="il·lustració animada de Andreu Zaragoza" width="300">
 
 La capacitat de seleccionar, transformar elements, crear màscares i superposar elements amb modes de fusió és una altra característica clau de Procreate, donant als artistes un control sobre les seves creacions i possibilitant la combinació de diferents elements per aconseguir efectes visuals complexos.
 
@@ -32,14 +32,13 @@ Tot i que Procreate ja ofereix eines de retoc de color i efectes, que normalment
 
 Una nova característica sorprenent de Procreate és la pintura en tres dimensions, una funcionalitat que abans només s'associava amb programes específics de modelatge i animació 3D.
 
-<iframe width="560" height="315" src="https://youtu.be/Aq18QxEiN-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fbb98a170803683.646443539d4bc.jpg" alt="Lletra A il·lustrada amb Procreate" width="400" height="350" style="float:right;margin-left:30px">
+
+[![New 3D Painting in Procreate](https://img.youtube.com/vi/Aq18QxEiN-g/0.jpg)](https://www.youtube.com/watch?v=Aq18QxEiN-g)
 
 Finalment, tal com assenyala Lev Manovich en el seu llibre, la tipografia tampoc es manté intacta a Procreate. El programa permet utilitzar la tipografia com un nou llenguatge, donant llibertat als usuaris per animar les lletres o crear cal·ligrafia amb materials surrealistes, combinant les tècniques de diversos llenguatges visuals per obtenir un metallenguatge creatiu.
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fbb98a170803683.646443539d4bc.jpg" alt="Lletra A il·lustrada amb Procreate" width="300">
-
 En resum, Procreate és un híbrid que combina elements d'il·lustració digital amb funcionalitats pròpies de programes de retoc de color, disseny vectorial, 3D i manipulació de tipografia, permetent als artistes explorar noves formes d'expressió i expandir els límits de la creació digital.
-
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="logo Blender" width=30> **CAS 2: Blender**
@@ -50,7 +49,9 @@ Blender és un programa de modelatge i creació de gràfics tridimensionals que 
 Una característica destacada de Blender és que té la llicència GNU General Public License (GPL). És un programari lliure i de codi obert (Open Source). Això significa que qualsevol persona amb coneixements de programació pot participar en el seu desenvolupament i aportar millores. Aquesta naturalesa oberta permet utilitzar el software lliurement, copiar-lo i col·laborar per aconseguir la seva actualització constant, ja sigui des de la programació o col·laborant econòmicament amb la Fundació Blender.
 
 Una de les tècniques utilitzades a Blender és el mapeig UV, que permet assignar textures a les superfícies dels models 3D de manera precisa creant detalls realistes en els models.
-Lucas Pereira (2021) Cat Mood
+
+<img src="https://i.all3dp.com/workers/images/fit=scale-down,w=1920,h=1080,gravity=0.5x0.5,format=auto/wp-content/uploads/2023/03/20181630/cube-mesh-with-medieval-wooden-texture-aftab-ali-via-all3dp-230123.jpg" alt="UV Mapping">
+
 Les partícules són una altra característica potent de Blender. Es generen a partir de malles que actuen com a emissors i permeten crear formes dinàmiques amb una gran varietat d'aplicacions. Les partícules poden interactuar amb objectes de l'escena, com ara obstacles, i es poden simular efectes naturals com el foc, el fum o el pèl. Això inclou l'aplicació de forces físiques com la gravetat o el pes, que poden influir en el comportament dels objectes i generar un moviment orgànic i realista.
 
 Com veiem, Blender utilitza algoritmes per a la generació dinàmica de partícules. Aquests algoritmes són una fusió entre els principis de la física i la programació. Això fa que Blender sigui un híbrid, ja que combina el coneixement científic i els principis de la física amb la capacitat de programar algoritmes per a la generació de partícules.
@@ -63,6 +64,8 @@ Blender també permet la creació de jocs i recorreguts virtuals en temps real. 
 A més de les funcionalitats pròpies de la creació i animació 3D, Blender també disposa d'un potent motor d'edició de vídeo i so. Això permet als usuaris realitzar tot el procés de producció, des de la importació i edició de clips fins a afegir transicions, efectes visuals i so.
 
 En resum, la hibridació de Blender es manifesta en la seva capacitat de combinar diferents àrees de creació, com el modelatge 3D, la simulació de partícules, l'animació, la integració amb imatges reals en moviment, la creació de jocs interactius i l'edició de vídeo. Aquesta combinació de funcionalitats permet als artistes i professionals de diverses disciplines utilitzar Blender com a eina versàtil per expressar la seva creativitat i dur a terme projectes amb un alt nivell de detall i qualitat.
+
+[![Texto alternativo](https://img.youtube.com/vi/QRqY_20ti9A/0.jpg)](https://www.youtube.com/watch?v=QRqY_20ti9A)
 
 L'organització participativa de codi obert de Blender també és un exemple d'hibridació. Aquesta pràctica col·laborativa implica una redefinició de les dinàmiques tradicionals de desenvolupament de software, ja que els usuaris tenen la capacitat de contribuir activament en l'evolució del programa. Blender permet que el programa evolucioni de manera més dinàmica i s'adapti millor a les necessitats dels usuaris. Aquesta forma d'hibridació és particularment rellevant perquè el desenvolupament de software es converteix en un procés obert i col·lectiu, en el qual les fronteres entre usuaris i desenvolupadors es difuminen.
 
@@ -85,3 +88,4 @@ GALÁN, Mercè. (2007) Blender. Curso de Iniciación. INFORBOOK
 MANOVICH, Lev (2013) El software toma el mando. Barcelona. Editorial UOC
 
 MUÑOZ-JUSTÍCIA, Juan (2014) Conocimiento Abierto y Tecnología. [En línia] Disponible A: http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+
