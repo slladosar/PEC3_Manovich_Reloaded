@@ -65,7 +65,7 @@ Les partícules són una altra característica potent de Blender. Es generen a p
 
 ◾ A més de les funcionalitats pròpies de la creació i animació 3D, Blender també disposa d'un potent motor d'edició de vídeo i so. Això permet als usuaris realitzar tot el procés de producció, des de la importació i edició de clips fins a afegir transicions, efectes visuals i so.
 
-[![Showcase Blender](https://img.youtube.com/vi/QRqY_20ti9A/0.jpg)](https://www.youtube.com/watch?v=QRqY_20ti9A)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/ac30f6128807905.61603732870dd.jpg" alt="Project from the artist Lucas Pereira">
 
  En resum, la hibridació de Blender es manifesta en la seva capacitat de combinar diferents àrees de creació, com el modelatge 3D, la simulació de partícules, l'animació, la integració amb imatges reals en moviment, la creació de jocs interactius i l'edició de vídeo. Aquesta combinació de funcionalitats permet als artistes i professionals de diverses disciplines utilitzar Blender com a eina versàtil per expressar la seva creativitat i dur a terme projectes amb un alt nivell de detall i qualitat.
  
