@@ -51,22 +51,23 @@ Una característica destacada de Blender és que té la llicència GNU General P
 
 Una de les tècniques utilitzades a Blender és el mapeig UV, que permet assignar textures a les superfícies dels models 3D de manera precisa creant detalls realistes en els models.
 
-<img src="https://i.all3dp.com/workers/images/fit=scale-down,w=1920,h=1080,gravity=0.5x0.5,format=auto/wp-content/uploads/2023/03/20181630/cube-mesh-with-medieval-wooden-texture-aftab-ali-via-all3dp-230123.jpg" alt="UV Mapping">
+[![Fluid Simulation in Blender](https://img.youtube.com/vi/AqK0YfKMgOw/0.jpg)](https://youtu.be/AqK0YfKMgOw)
 
 Les partícules són una altra característica potent de Blender. Es generen a partir de malles que actuen com a emissors i permeten crear formes dinàmiques amb una gran varietat d'aplicacions. Les partícules poden interactuar amb objectes de l'escena, com ara obstacles, i es poden simular efectes naturals com el foc, el fum o el pèl. Això inclou l'aplicació de forces físiques com la gravetat o el pes, que poden influir en el comportament dels objectes i generar un moviment orgànic i realista.
 
-Com veiem, Blender utilitza algoritmes per a la generació dinàmica de partícules. Aquests algoritmes són una fusió entre els principis de la física i la programació. Això fa que Blender sigui un híbrid, ja que combina el coneixement científic i els principis de la física amb la capacitat de programar algoritmes per a la generació de partícules.
-També destaca per la seva capacitat d'animació i moviment. Permet moure càmeres i llums, animar objectes i crear dinàmiques que afectin directament als elements de l'escena.
+◾Com veiem, Blender utilitza algoritmes per a la generació dinàmica de partícules. Aquests algoritmes són una fusió entre els principis de la física i la programació. Això fa que Blender sigui un híbrid, ja que combina el coneixement sobre els principis de la física amb la capacitat de programar algoritmes per a la generació de partícules.
 
-Una altra característica híbrida de Blender és la integració de gràfics 3D en imatges reals en moviment. Això significa que es pot combinar el món virtual amb el món real per crear efectes visuals sorprenents.
+◾També destaca per la seva capacitat d'animació i moviment. Permet moure càmeres i llums, animar objectes i crear dinàmiques que afectin directament als elements de l'escena.
 
-Blender també permet la creació de jocs i recorreguts virtuals en temps real. Amb aquesta funcionalitat, es pot recrear un entorn interactiu en què els usuaris poden moure's lliurement i explorar l'escena com si estiguessin jugant a un videojoc. Això és especialment útil per explorar entorns arquitectònics o paisatges virtuals de manera immersiva.
+◾ Una altra característica híbrida de Blender és la integració de gràfics 3D en imatges reals en moviment. Això significa que es pot combinar el món virtual amb el món real per crear efectes visuals.
 
-A més de les funcionalitats pròpies de la creació i animació 3D, Blender també disposa d'un potent motor d'edició de vídeo i so. Això permet als usuaris realitzar tot el procés de producció, des de la importació i edició de clips fins a afegir transicions, efectes visuals i so.
+◾ Blender també permet la creació de jocs i recorreguts virtuals en temps real. Amb aquesta funcionalitat, es pot recrear un entorn interactiu en què els usuaris poden moure's lliurement i explorar l'escena com si estiguessin jugant a un videojoc. Això és especialment útil per explorar entorns arquitectònics o paisatges virtuals de manera immersiva.
+
+◾ A més de les funcionalitats pròpies de la creació i animació 3D, Blender també disposa d'un potent motor d'edició de vídeo i so. Això permet als usuaris realitzar tot el procés de producció, des de la importació i edició de clips fins a afegir transicions, efectes visuals i so.
 
 En resum, la hibridació de Blender es manifesta en la seva capacitat de combinar diferents àrees de creació, com el modelatge 3D, la simulació de partícules, l'animació, la integració amb imatges reals en moviment, la creació de jocs interactius i l'edició de vídeo. Aquesta combinació de funcionalitats permet als artistes i professionals de diverses disciplines utilitzar Blender com a eina versàtil per expressar la seva creativitat i dur a terme projectes amb un alt nivell de detall i qualitat.
 
-[![Texto alternativo](https://img.youtube.com/vi/QRqY_20ti9A/0.jpg)](https://www.youtube.com/watch?v=QRqY_20ti9A)
+[![Showcase Blender](https://img.youtube.com/vi/QRqY_20ti9A/0.jpg)](https://www.youtube.com/watch?v=QRqY_20ti9A)
 
 L'organització participativa de codi obert de Blender també és un exemple d'hibridació. Aquesta pràctica col·laborativa implica una redefinició de les dinàmiques tradicionals de desenvolupament de software, ja que els usuaris tenen la capacitat de contribuir activament en l'evolució del programa. Blender permet que el programa evolucioni de manera més dinàmica i s'adapti millor a les necessitats dels usuaris. Aquesta forma d'hibridació és particularment rellevant perquè el desenvolupament de software es converteix en un procés obert i col·lectiu, en el qual les fronteres entre usuaris i desenvolupadors es difuminen.
 
