@@ -51,9 +51,9 @@ Una característica destacada de Blender és que té la llicència GNU General P
 
 Una de les tècniques utilitzades a Blender és el mapeig UV, que permet assignar textures a les superfícies dels models 3D de manera precisa creant detalls realistes en els models.
 
-[![Fluid Simulation in Blender](https://img.youtube.com/vi/AqK0YfKMgOw/0.jpg)](https://youtu.be/AqK0YfKMgOw)
-
 Les partícules són una altra característica potent de Blender. Es generen a partir de malles que actuen com a emissors i permeten crear formes dinàmiques amb una gran varietat d'aplicacions. Les partícules poden interactuar amb objectes de l'escena, com ara obstacles, i es poden simular efectes naturals com el foc, el fum o el pèl. Això inclou l'aplicació de forces físiques com la gravetat o el pes, que poden influir en el comportament dels objectes i generar un moviment orgànic i realista.
+
+[![Fluid Simulation in Blender](https://img.youtube.com/vi/AqK0YfKMgOw/0.jpg)](https://youtu.be/AqK0YfKMgOw)
 
 ◾Com veiem, Blender utilitza algoritmes per a la generació dinàmica de partícules. Aquests algoritmes són una fusió entre els principis de la física i la programació. Això fa que Blender sigui un híbrid, ja que combina el coneixement sobre els principis de la física amb la capacitat de programar algoritmes per a la generació de partícules.
 
