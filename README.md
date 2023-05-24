@@ -67,10 +67,10 @@ Les partícules són una altra característica potent de Blender. Es generen a p
 
 [![Showcase Blender](https://img.youtube.com/vi/QRqY_20ti9A/0.jpg)](https://www.youtube.com/watch?v=QRqY_20ti9A)
 
-<div style="background-color: orange; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
  En resum, la hibridació de Blender es manifesta en la seva capacitat de combinar diferents àrees de creació, com el modelatge 3D, la simulació de partícules, l'animació, la integració amb imatges reals en moviment, la creació de jocs interactius i l'edició de vídeo. Aquesta combinació de funcionalitats permet als artistes i professionals de diverses disciplines utilitzar Blender com a eina versàtil per expressar la seva creativitat i dur a terme projectes amb un alt nivell de detall i qualitat.
+ 
  L'organització participativa de codi obert de Blender també és un exemple d'hibridació. Aquesta pràctica col·laborativa implica una redefinició de les dinàmiques tradicionals de desenvolupament de software, ja que els usuaris tenen la capacitat de contribuir activament en l'evolució del programa. Blender permet que  el programa evolucioni de manera més dinàmica i s'adapti millor a les necessitats dels usuaris. Aquesta forma d'hibridació és particularment rellevant perquè el desenvolupament de software es converteix en un procés obert i col·lectiu, en el qual les fronteres entre usuaris i desenvolupadors es difuminen.
-</div>
+ 
 
 # **Conclusió**
 Si Lev Manovich hagués d'escriure avui els seus textos, és probable que utilitzés un processador de text com Microsoft Word i emmagatzemaria els seus arxius al núvol utilitzant Google Drive o una altra eina similar per accedir i compartir els seus documents des de qualsevol dispositiu.
